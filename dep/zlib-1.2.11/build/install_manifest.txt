@@ -1,0 +1,7 @@
+E:/LIBS/A443Rebuild/distro/lib/libzlib.dll.a
+E:/LIBS/A443Rebuild/distro/bin/libzlib.dll
+E:/LIBS/A443Rebuild/distro/lib/libzlibstatic.a
+E:/LIBS/A443Rebuild/distro/include/zconf.h
+E:/LIBS/A443Rebuild/distro/include/zlib.h
+E:/LIBS/A443Rebuild/distro/share/man/man3/zlib.3
+E:/LIBS/A443Rebuild/distro/lib/pkgconfig/zlib.pc

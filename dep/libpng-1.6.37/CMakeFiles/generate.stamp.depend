@@ -1,0 +1,61 @@
+# CMake generation dependency list for this directory.
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeLists.txt
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/3.10.0-rc5/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/3.10.0-rc5/CMakeCCompiler.cmake
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/3.10.0-rc5/CMakeASMCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/3.10.0-rc5/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeASMInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/pnglibconf.h.prebuilt
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/test.cmake.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeParseArguments.cmake
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/genchk.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/genout.cmake.in
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/scripts/gensrc.cmake.in

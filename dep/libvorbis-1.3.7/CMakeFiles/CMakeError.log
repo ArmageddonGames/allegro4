@@ -1,0 +1,23 @@
+Determining if the function floor exists in the m failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libvorbis-1.3.7/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_79e11"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_79e11, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CHECK_FUNCTION_EXISTS=floor" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_79e11.dir\Debug\\" /Fd"cmTC_79e11.dir\Debug\vc90.pdb" /W3 /c /Zi /TC "..\..\..\..\..\..\..\..\Program Files\CMake\share\cmake-3.10\Modules\CheckFunctionExists.c"
+1>CheckFunctionExists.c
+1>Compiling manifest to resources...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Linking...
+1>LINK : fatal error LNK1104: cannot open file 'm.lib'
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libvorbis-1.3.7\CMakeFiles\CMakeTmp\cmTC_79e11.dir\Debug\BuildLog.htm"
+1>cmTC_79e11 - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+

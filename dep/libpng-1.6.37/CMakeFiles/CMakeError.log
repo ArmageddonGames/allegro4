@@ -1,0 +1,44 @@
+Performing C SOURCE FILE Test HAVE_LD_VERSION_SCRIPT failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_25d08"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_25d08, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "HAVE_LD_VERSION_SCRIPT" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_25d08.dir\Debug\\" /Fd"cmTC_25d08.dir\Debug\vc90.pdb" /W3 /c /Zi /TC  "-Wl,--version-script='C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/conftest.map'"
+1>cl : Command line error D8021 : invalid numeric argument '/Wl,--version-script='C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/conftest.map''
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libpng-1.6.37\CMakeFiles\CMakeTmp\cmTC_25d08.dir\Debug\BuildLog.htm"
+1>cmTC_25d08 - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+Source file was:
+void sym(void) {}
+void sym2(void) {}
+int main(void) {return 0;}
+
+Performing C SOURCE FILE Test HAVE_SOLARIS_LD_VERSION_SCRIPT failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_07d32"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_07d32, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "HAVE_SOLARIS_LD_VERSION_SCRIPT" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_07d32.dir\Debug\\" /Fd"cmTC_07d32.dir\Debug\vc90.pdb" /W3 /c /Zi /TC  -Wl,-M -Wl,C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/conftest.map
+1>cl : Command line error D8021 : invalid numeric argument '/Wl,-M'
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libpng-1.6.37\CMakeFiles\CMakeTmp\cmTC_07d32.dir\Debug\BuildLog.htm"
+1>cmTC_07d32 - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+Source file was:
+void sym(void) {}
+void sym2(void) {}
+int main(void) {return 0;}
+

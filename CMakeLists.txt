@@ -111,9 +111,16 @@ option(WANT_EMBED
 set(FRAMEWORK_INSTALL_PREFIX "/Library/Frameworks" CACHE STRING
     "Directory in which to install Mac OS X frameworks")
 
+if(MSVC)
+    option(STATIC_RUNTIME "Use the static MSVC runtime" on)
+endif(MSVC)
+
 #-----------------------------------------------------------------------------#
 #
-# Unix platform checks
+# Unix platform c
+if(MSVC)
+    option(STATIC_RUNTIME "Use the static MSVC runtime" on)
+endif(MSVC)
 #
 
 include(CheckIncludeFiles)
@@ -342,6 +349,24 @@ if(COMPILER_MSVC)
         CACHE STRING "profiling flags")
     set(CMAKE_EXE_LINKER_FLAGS_PROFILE "-profile"
         CACHE STRING "profiling flags")
+	
+if(STATIC_RUNTIME)
+        set(CompilerFlags
+        	CMAKE_CXX_FLAGS
+	        CMAKE_CXX_FLAGS_DEBUG
+	        CMAKE_CXX_FLAGS_RELEASE
+		CMAKE_CXX_FLAGS_RELWITHDEBINFO
+        	CMAKE_C_FLAGS
+	        CMAKE_C_FLAGS_DEBUG
+        	CMAKE_C_FLAGS_RELEASE
+		CMAKE_C_FLAGS_RELWITHDEBINFO
+        	)
+	foreach(CompilerFlag ${CompilerFlags})
+	  string(REPLACE "/MD" "/MT" ${CompilerFlag} "${${CompilerFlag}}")
+          string(REPLACE "/MDd" "/MTd" ${CompilerFlag} "${${CompilerFlag}}")
+	endforeach()
+    endif(STATIC_RUNTIME)
+    
 endif(COMPILER_MSVC)
 
 #-----------------------------------------------------------------------------#

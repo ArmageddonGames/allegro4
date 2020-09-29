@@ -1,0 +1,11 @@
+E:/ZC/Allegro5/CMakeFiles/allegro.dir
+E:/ZC/Allegro5/CMakeFiles/INSTALL.dir
+E:/ZC/Allegro5/CMakeFiles/ALL_BUILD.dir
+E:/ZC/Allegro5/CMakeFiles/ZERO_CHECK.dir
+E:/ZC/Allegro5/addons/loadpng/CMakeFiles/loadpng.dir
+E:/ZC/Allegro5/addons/loadpng/CMakeFiles/INSTALL.dir
+E:/ZC/Allegro5/addons/logg/CMakeFiles/logg.dir
+E:/ZC/Allegro5/addons/logg/CMakeFiles/INSTALL.dir
+E:/ZC/Allegro5/addons/jpgalleg/CMakeFiles/jpgalleg.dir
+E:/ZC/Allegro5/addons/jpgalleg/CMakeFiles/INSTALL.dir
+E:/ZC/Allegro5/docs/CMakeFiles/INSTALL.dir

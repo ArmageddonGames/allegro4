@@ -1,0 +1,8 @@
+C:/Users/DELL/Downloads/A4DepSources/libsrc/zlib-1.2.11/CMakeFiles/RUN_TESTS.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/zlib-1.2.11/CMakeFiles/zlib.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/zlib-1.2.11/CMakeFiles/example.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/zlib-1.2.11/CMakeFiles/zlibstatic.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/zlib-1.2.11/CMakeFiles/minigzip.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/zlib-1.2.11/CMakeFiles/INSTALL.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/zlib-1.2.11/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/zlib-1.2.11/CMakeFiles/ZERO_CHECK.dir

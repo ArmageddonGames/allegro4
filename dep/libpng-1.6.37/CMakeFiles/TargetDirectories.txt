@@ -1,0 +1,14 @@
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/genfiles.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/pngimage.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/RUN_TESTS.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/png.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/png_static.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/pngfix.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/pngstest.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/pngvalid.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/pngtest.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/pngunknown.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/png-fix-itxt.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/INSTALL.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libpng-1.6.37/CMakeFiles/ZERO_CHECK.dir

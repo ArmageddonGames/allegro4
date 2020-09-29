@@ -1,0 +1,7 @@
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libvorbis-1.3.7/CMakeFiles/INSTALL.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libvorbis-1.3.7/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libvorbis-1.3.7/CMakeFiles/ZERO_CHECK.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libvorbis-1.3.7/lib/CMakeFiles/vorbis.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libvorbis-1.3.7/lib/CMakeFiles/INSTALL.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libvorbis-1.3.7/lib/CMakeFiles/vorbisenc.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libvorbis-1.3.7/lib/CMakeFiles/vorbisfile.dir

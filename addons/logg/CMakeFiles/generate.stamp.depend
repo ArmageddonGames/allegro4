@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+E:/ZC/Allegro5/addons/logg/CMakeLists.txt
+E:/ZC/Allegro5/cmake/FindVorbis.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake

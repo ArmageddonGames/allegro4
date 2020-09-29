@@ -1,0 +1,12 @@
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/Nightly.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/Experimental.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/Continuous.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/RUN_TESTS.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/PACKAGE.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/ogg.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/test_framing.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/test_bitwise.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/INSTALL.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/ZERO_CHECK.dir

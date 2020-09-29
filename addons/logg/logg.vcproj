@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<VisualStudioProject
+	ProjectType="Visual C++"
+	Version="9.00"
+	Name="logg"
+	ProjectGUID="{43B6289E-98B6-34AC-9128-E0F82F0B1885}"
+	Keyword="Win32Proj">
+	<Platforms>
+		<Platform
+			Name="Win32"/>
+	</Platforms>
+	<Configurations>
+		<Configuration
+			Name="Release|Win32"
+			OutputDirectory="E:\ZC\Allegro5\lib\Release"
+			IntermediateDirectory="logg.dir\Release"
+			ConfigurationType="2"
+			UseOfMFC="0"
+			ATLMinimizesCRunTimeLibraryUsage="false"
+			CharacterSet="2">
+			<Tool
+				Name="VCCLCompilerTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				AssemblerListingLocation="Release/"
+				CompileAs="1"
+				ExceptionHandling="0"
+				InlineFunctionExpansion="2"
+				Optimization="2"
+				RuntimeLibrary="0"
+				WarningLevel="3"
+				PreprocessorDefinitions="WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;NDEBUG;CMAKE_INTDIR=\&quot;Release\&quot;;logg_EXPORTS"
+				ObjectFile="$(IntDir)\"
+/>
+			<Tool
+				Name="VCCustomBuildTool"/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				PreprocessorDefinitions="WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;NDEBUG;CMAKE_INTDIR=\&quot;Release\&quot;;logg_EXPORTS"/>
+			<Tool
+				Name="VCMIDLTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				MkTypLibCompatible="false"
+				TargetEnvironment="1"
+				GenerateStublessProxies="true"
+				TypeLibraryName="$(InputName).tlb"
+				OutputDirectory="$(IntDir)"
+				HeaderFileName="$(InputName).h"
+				DLLDataFileName=""
+				InterfaceIdentifierFileName="$(InputName)_i.c"
+				ProxyFileName="$(InputName)_p.c"/>
+			<Tool
+				Name="VCManifestTool"/>
+			<Tool
+				Name="VCPreBuildEventTool"/>
+			<Tool
+				Name="VCPreLinkEventTool"/>
+			<Tool
+				Name="VCPostBuildEventTool"/>
+			<Tool
+				Name="VCLinkerTool"
+				LinkLibraryDependencies="false"
+				AdditionalDependencies="$(NOINHERIT) kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\lib\Release\alleg44.lib dep/libvorbis-1.3.7/lib/Release/vorbisfile.lib.lib dep/libvorbis-1.3.7/lib/Release/vorbis.lib.lib dep/libogg-1.3.4/Release/ogg.lib.lib kernel32.lib user32.lib gdi32.lib comdlg32.lib ole32.lib dep/dx/Lib/x86/dinput8.lib.lib dep/dx/Lib/x86/ddraw.lib.lib dep/dx/Lib/x86/dxguid.lib.lib winmm.lib dep/dx/Lib/x86/dsound.lib.lib "
+				OutputFile="E:\ZC\Allegro5\lib\Release\logg.dll"
+				Version="4.4"
+				AdditionalOptions="/machine:X86"
+				LinkIncremental="1"
+				AdditionalLibraryDirectories=""
+				ProgramDatabaseFile="E:\ZC\Allegro5\lib\Release\logg.pdb"
+				ImportLibrary="E:\ZC\Allegro5\lib\Release\logg.lib"/>
+		</Configuration>
+		<Configuration
+			Name="Debug|Win32"
+			OutputDirectory="E:\ZC\Allegro5\lib\Debug"
+			IntermediateDirectory="logg.dir\Debug"
+			ConfigurationType="2"
+			UseOfMFC="0"
+			ATLMinimizesCRunTimeLibraryUsage="false"
+			CharacterSet="2">
+			<Tool
+				Name="VCCLCompilerTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				AssemblerListingLocation="Debug/"
+				BasicRuntimeChecks="3"
+				CompileAs="1"
+				DebugInformationFormat="3"
+				ExceptionHandling="0"
+				InlineFunctionExpansion="0"
+				Optimization="0"
+				RuntimeLibrary="0"
+				WarningLevel="3"
+				PreprocessorDefinitions="WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;DEBUGMODE=1;CMAKE_INTDIR=\&quot;Debug\&quot;;logg_EXPORTS"
+				ObjectFile="$(IntDir)\"
+/>
+			<Tool
+				Name="VCCustomBuildTool"/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				PreprocessorDefinitions="WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;DEBUGMODE=1;CMAKE_INTDIR=\&quot;Debug\&quot;;logg_EXPORTS"/>
+			<Tool
+				Name="VCMIDLTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				MkTypLibCompatible="false"
+				TargetEnvironment="1"
+				GenerateStublessProxies="true"
+				TypeLibraryName="$(InputName).tlb"
+				OutputDirectory="$(IntDir)"
+				HeaderFileName="$(InputName).h"
+				DLLDataFileName=""
+				InterfaceIdentifierFileName="$(InputName)_i.c"
+				ProxyFileName="$(InputName)_p.c"/>
+			<Tool
+				Name="VCManifestTool"/>
+			<Tool
+				Name="VCPreBuildEventTool"/>
+			<Tool
+				Name="VCPreLinkEventTool"/>
+			<Tool
+				Name="VCPostBuildEventTool"/>
+			<Tool
+				Name="VCLinkerTool"
+				LinkLibraryDependencies="false"
+				AdditionalDependencies="$(NOINHERIT) kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\lib\Debug\alleg44-debug.lib dep/libvorbis-1.3.7/lib/Release/vorbisfile.lib.lib dep/libvorbis-1.3.7/lib/Release/vorbis.lib.lib dep/libogg-1.3.4/Release/ogg.lib.lib kernel32.lib user32.lib gdi32.lib comdlg32.lib ole32.lib dep/dx/Lib/x86/dinput8.lib.lib dep/dx/Lib/x86/ddraw.lib.lib dep/dx/Lib/x86/dxguid.lib.lib winmm.lib dep/dx/Lib/x86/dsound.lib.lib "
+				OutputFile="E:\ZC\Allegro5\lib\Debug\logg-debug.dll"
+				Version="4.4"
+				AdditionalOptions="/machine:X86 /debug"
+				LinkIncremental="1"
+				AdditionalLibraryDirectories=""
+				ProgramDatabaseFile="E:\ZC\Allegro5\lib\Debug\logg-debug.pdb"
+				GenerateDebugInformation="true"
+				ImportLibrary="E:\ZC\Allegro5\lib\Debug\logg-debug.lib"/>
+		</Configuration>
+		<Configuration
+			Name="RelWithDebInfo|Win32"
+			OutputDirectory="E:\ZC\Allegro5\lib\RelWithDebInfo"
+			IntermediateDirectory="logg.dir\RelWithDebInfo"
+			ConfigurationType="2"
+			UseOfMFC="0"
+			ATLMinimizesCRunTimeLibraryUsage="false"
+			CharacterSet="2">
+			<Tool
+				Name="VCCLCompilerTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				AssemblerListingLocation="RelWithDebInfo/"
+				CompileAs="1"
+				DebugInformationFormat="3"
+				ExceptionHandling="0"
+				InlineFunctionExpansion="1"
+				Optimization="2"
+				RuntimeLibrary="0"
+				WarningLevel="3"
+				PreprocessorDefinitions="WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;NDEBUG;CMAKE_INTDIR=\&quot;RelWithDebInfo\&quot;;logg_EXPORTS"
+				ObjectFile="$(IntDir)\"
+/>
+			<Tool
+				Name="VCCustomBuildTool"/>
+			<Tool
+				Name="VCResourceCompilerTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				PreprocessorDefinitions="WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;NDEBUG;CMAKE_INTDIR=\&quot;RelWithDebInfo\&quot;;logg_EXPORTS"/>
+			<Tool
+				Name="VCMIDLTool"
+				AdditionalIncludeDirectories="E:\ZC\Allegro5\include;E:\ZC\Allegro5\dep\dx\Include;E:\ZC\Allegro5\addons\logg\dep\libogg-1.3.4;E:\ZC\Allegro5\addons\logg\dep\libvorbis-1.3.7;"
+				MkTypLibCompatible="false"
+				TargetEnvironment="1"
+				GenerateStublessProxies="true"
+				TypeLibraryName="$(InputName).tlb"
+				OutputDirectory="$(IntDir)"
+				HeaderFileName="$(InputName).h"
+				DLLDataFileName=""
+				InterfaceIdentifierFileName="$(InputName)_i.c"
+				ProxyFileName="$(InputName)_p.c"/>
+			<Tool
+				Name="VCManifestTool"/>
+			<Tool
+				Name="VCPreBuildEventTool"/>
+			<Tool
+				Name="VCPreLinkEventTool"/>
+			<Tool
+				Name="VCPostBuildEventTool"/>
+			<Tool
+				Name="VCLinkerTool"
+				LinkLibraryDependencies="false"
+				AdditionalDependencies="$(NOINHERIT) kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\lib\RelWithDebInfo\alleg44.lib dep/libvorbis-1.3.7/lib/Release/vorbisfile.lib.lib dep/libvorbis-1.3.7/lib/Release/vorbis.lib.lib dep/libogg-1.3.4/Release/ogg.lib.lib kernel32.lib user32.lib gdi32.lib comdlg32.lib ole32.lib dep/dx/Lib/x86/dinput8.lib.lib dep/dx/Lib/x86/ddraw.lib.lib dep/dx/Lib/x86/dxguid.lib.lib winmm.lib dep/dx/Lib/x86/dsound.lib.lib "
+				OutputFile="E:\ZC\Allegro5\lib\RelWithDebInfo\logg.dll"
+				Version="4.4"
+				AdditionalOptions="/machine:X86 /debug"
+				LinkIncremental="1"
+				AdditionalLibraryDirectories=""
+				ProgramDatabaseFile="E:\ZC\Allegro5\lib\RelWithDebInfo\logg.pdb"
+				GenerateDebugInformation="true"
+				ImportLibrary="E:\ZC\Allegro5\lib\RelWithDebInfo\logg.lib"/>
+		</Configuration>
+	</Configurations>
+	<Files>
+			<File
+				RelativePath="E:\ZC\Allegro5\addons\logg\CMakeLists.txt">
+				<FileConfiguration
+					Name="Release|Win32">
+					<Tool
+					Name="VCCustomBuildTool"
+					Description="Building Custom Rule E:/ZC/Allegro5/addons/logg/CMakeLists.txt"
+					CommandLine="&quot;C:\Program Files\CMake\bin\cmake.exe&quot; -HE:/ZC/Allegro5 -BE:/ZC/Allegro5 --check-stamp-file E:/ZC/Allegro5/addons/logg/CMakeFiles/generate.stamp&#x0D;&#x0A;if errorlevel 1 goto :VCReportError"
+					AdditionalDependencies="E:\ZC\Allegro5\addons\logg\CMakeLists.txt;E:\ZC\Allegro5\cmake\FindVorbis.cmake;&quot;C:\Program Files\CMake\share\cmake-3.10\Modules\FindPackageHandleStandardArgs.cmake&quot;;&quot;C:\Program Files\CMake\share\cmake-3.10\Modules\FindPackageMessage.cmake&quot;;E:\ZC\Allegro5\addons\logg\CMakeLists.txt;"
+					Outputs="E:\ZC\Allegro5\addons\logg\CMakeFiles\generate.stamp"/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="Debug|Win32">
+					<Tool
+					Name="VCCustomBuildTool"
+					Description="Building Custom Rule E:/ZC/Allegro5/addons/logg/CMakeLists.txt"
+					CommandLine="&quot;C:\Program Files\CMake\bin\cmake.exe&quot; -HE:/ZC/Allegro5 -BE:/ZC/Allegro5 --check-stamp-file E:/ZC/Allegro5/addons/logg/CMakeFiles/generate.stamp&#x0D;&#x0A;if errorlevel 1 goto :VCReportError"
+					AdditionalDependencies="E:\ZC\Allegro5\addons\logg\CMakeLists.txt;E:\ZC\Allegro5\cmake\FindVorbis.cmake;&quot;C:\Program Files\CMake\share\cmake-3.10\Modules\FindPackageHandleStandardArgs.cmake&quot;;&quot;C:\Program Files\CMake\share\cmake-3.10\Modules\FindPackageMessage.cmake&quot;;E:\ZC\Allegro5\addons\logg\CMakeLists.txt;"
+					Outputs="E:\ZC\Allegro5\addons\logg\CMakeFiles\generate.stamp"/>
+				</FileConfiguration>
+				<FileConfiguration
+					Name="RelWithDebInfo|Win32">
+					<Tool
+					Name="VCCustomBuildTool"
+					Description="Building Custom Rule E:/ZC/Allegro5/addons/logg/CMakeLists.txt"
+					CommandLine="&quot;C:\Program Files\CMake\bin\cmake.exe&quot; -HE:/ZC/Allegro5 -BE:/ZC/Allegro5 --check-stamp-file E:/ZC/Allegro5/addons/logg/CMakeFiles/generate.stamp&#x0D;&#x0A;if errorlevel 1 goto :VCReportError"
+					AdditionalDependencies="E:\ZC\Allegro5\addons\logg\CMakeLists.txt;E:\ZC\Allegro5\cmake\FindVorbis.cmake;&quot;C:\Program Files\CMake\share\cmake-3.10\Modules\FindPackageHandleStandardArgs.cmake&quot;;&quot;C:\Program Files\CMake\share\cmake-3.10\Modules\FindPackageMessage.cmake&quot;;E:\ZC\Allegro5\addons\logg\CMakeLists.txt;"
+					Outputs="E:\ZC\Allegro5\addons\logg\CMakeFiles\generate.stamp"/>
+				</FileConfiguration>
+			</File>
+		<Filter
+			Name="Source Files"
+			Filter="">
+			<File
+				RelativePath="E:\ZC\Allegro5\addons\logg\logg.c">
+			</File>
+		</Filter>
+		<Filter
+			Name="Header Files"
+			Filter="">
+			<File
+				RelativePath="E:\ZC\Allegro5\addons\logg\logg.h">
+			</File>
+		</Filter>
+	</Files>
+	<Globals>
+	</Globals>
+</VisualStudioProject>

@@ -1,0 +1,559 @@
+Determining if files inttypes.h exist failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_7c81c"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_7c81c, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_7c81c.dir\Debug\\" /Fd"cmTC_7c81c.dir\Debug\vc90.pdb" /W3 /c /Zi /TC ".\CheckIncludeFiles.c"
+1>CheckIncludeFiles.c
+1>.\CheckIncludeFiles.c(2) : fatal error C1083: Cannot open include file: 'inttypes.h': No such file or directory
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_7c81c.dir\Debug\BuildLog.htm"
+1>cmTC_7c81c - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+Source:
+/* */
+#include <inttypes.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdint.h exist failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_a7d02"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_a7d02, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_a7d02.dir\Debug\\" /Fd"cmTC_a7d02.dir\Debug\vc90.pdb" /W3 /c /Zi /TC ".\CheckIncludeFiles.c"
+1>CheckIncludeFiles.c
+1>.\CheckIncludeFiles.c(2) : fatal error C1083: Cannot open include file: 'stdint.h': No such file or directory
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_a7d02.dir\Debug\BuildLog.htm"
+1>cmTC_a7d02 - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+Source:
+/* */
+#include <stdint.h>
+
+
+int main(void){return 0;}
+
+Determining if the include file stdint.h exists failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_ae605"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_ae605, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_ae605.dir\Debug\\" /Fd"cmTC_ae605.dir\Debug\vc90.pdb" /W3 /c /Zi /TC ".\CheckIncludeFile.c"
+1>CheckIncludeFile.c
+1>.\CheckIncludeFile.c(1) : fatal error C1083: Cannot open include file: 'stdint.h': No such file or directory
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_ae605.dir\Debug\BuildLog.htm"
+1>cmTC_ae605 - 1 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining size of int16_t failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_0b478"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_0b478, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_0b478.dir\Debug\\" /Fd"cmTC_0b478.dir\Debug\vc90.pdb" /W3 /c /Zi /TC "..\CheckTypeSize\INT16_SIZE.c"
+1>INT16_SIZE.c
+1>..\CheckTypeSize\INT16_SIZE.c(24) : error C2065: 'int16_t' : undeclared identifier
+1>..\CheckTypeSize\INT16_SIZE.c(25) : error C2065: 'int16_t' : undeclared identifier
+1>..\CheckTypeSize\INT16_SIZE.c(26) : error C2065: 'int16_t' : undeclared identifier
+1>..\CheckTypeSize\INT16_SIZE.c(27) : error C2065: 'int16_t' : undeclared identifier
+1>..\CheckTypeSize\INT16_SIZE.c(28) : error C2065: 'int16_t' : undeclared identifier
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_0b478.dir\Debug\BuildLog.htm"
+1>cmTC_0b478 - 5 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CheckTypeSize/INT16_SIZE.c:
+#include <sys/types.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(int16_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of uint16_t failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_1db0d"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_1db0d, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_1db0d.dir\Debug\\" /Fd"cmTC_1db0d.dir\Debug\vc90.pdb" /W3 /c /Zi /TC "..\CheckTypeSize\UINT16_SIZE.c"
+1>UINT16_SIZE.c
+1>..\CheckTypeSize\UINT16_SIZE.c(24) : error C2065: 'uint16_t' : undeclared identifier
+1>..\CheckTypeSize\UINT16_SIZE.c(25) : error C2065: 'uint16_t' : undeclared identifier
+1>..\CheckTypeSize\UINT16_SIZE.c(26) : error C2065: 'uint16_t' : undeclared identifier
+1>..\CheckTypeSize\UINT16_SIZE.c(27) : error C2065: 'uint16_t' : undeclared identifier
+1>..\CheckTypeSize\UINT16_SIZE.c(28) : error C2065: 'uint16_t' : undeclared identifier
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_1db0d.dir\Debug\BuildLog.htm"
+1>cmTC_1db0d - 5 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CheckTypeSize/UINT16_SIZE.c:
+#include <sys/types.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(uint16_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of u_int16_t failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_ec6af"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_ec6af, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_ec6af.dir\Debug\\" /Fd"cmTC_ec6af.dir\Debug\vc90.pdb" /W3 /c /Zi /TC "..\CheckTypeSize\U_INT16_SIZE.c"
+1>U_INT16_SIZE.c
+1>..\CheckTypeSize\U_INT16_SIZE.c(24) : error C2065: 'u_int16_t' : undeclared identifier
+1>..\CheckTypeSize\U_INT16_SIZE.c(25) : error C2065: 'u_int16_t' : undeclared identifier
+1>..\CheckTypeSize\U_INT16_SIZE.c(26) : error C2065: 'u_int16_t' : undeclared identifier
+1>..\CheckTypeSize\U_INT16_SIZE.c(27) : error C2065: 'u_int16_t' : undeclared identifier
+1>..\CheckTypeSize\U_INT16_SIZE.c(28) : error C2065: 'u_int16_t' : undeclared identifier
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_ec6af.dir\Debug\BuildLog.htm"
+1>cmTC_ec6af - 5 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CheckTypeSize/U_INT16_SIZE.c:
+#include <sys/types.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(u_int16_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of int32_t failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_e3b1b"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_e3b1b, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_e3b1b.dir\Debug\\" /Fd"cmTC_e3b1b.dir\Debug\vc90.pdb" /W3 /c /Zi /TC "..\CheckTypeSize\INT32_SIZE.c"
+1>INT32_SIZE.c
+1>..\CheckTypeSize\INT32_SIZE.c(24) : error C2065: 'int32_t' : undeclared identifier
+1>..\CheckTypeSize\INT32_SIZE.c(25) : error C2065: 'int32_t' : undeclared identifier
+1>..\CheckTypeSize\INT32_SIZE.c(26) : error C2065: 'int32_t' : undeclared identifier
+1>..\CheckTypeSize\INT32_SIZE.c(27) : error C2065: 'int32_t' : undeclared identifier
+1>..\CheckTypeSize\INT32_SIZE.c(28) : error C2065: 'int32_t' : undeclared identifier
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_e3b1b.dir\Debug\BuildLog.htm"
+1>cmTC_e3b1b - 5 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CheckTypeSize/INT32_SIZE.c:
+#include <sys/types.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(int32_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of uint32_t failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_5e439"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_5e439, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_5e439.dir\Debug\\" /Fd"cmTC_5e439.dir\Debug\vc90.pdb" /W3 /c /Zi /TC "..\CheckTypeSize\UINT32_SIZE.c"
+1>UINT32_SIZE.c
+1>..\CheckTypeSize\UINT32_SIZE.c(24) : error C2065: 'uint32_t' : undeclared identifier
+1>..\CheckTypeSize\UINT32_SIZE.c(25) : error C2065: 'uint32_t' : undeclared identifier
+1>..\CheckTypeSize\UINT32_SIZE.c(26) : error C2065: 'uint32_t' : undeclared identifier
+1>..\CheckTypeSize\UINT32_SIZE.c(27) : error C2065: 'uint32_t' : undeclared identifier
+1>..\CheckTypeSize\UINT32_SIZE.c(28) : error C2065: 'uint32_t' : undeclared identifier
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_5e439.dir\Debug\BuildLog.htm"
+1>cmTC_5e439 - 5 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CheckTypeSize/UINT32_SIZE.c:
+#include <sys/types.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(uint32_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of u_int32_t failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_f8e9d"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_f8e9d, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_f8e9d.dir\Debug\\" /Fd"cmTC_f8e9d.dir\Debug\vc90.pdb" /W3 /c /Zi /TC "..\CheckTypeSize\U_INT32_SIZE.c"
+1>U_INT32_SIZE.c
+1>..\CheckTypeSize\U_INT32_SIZE.c(24) : error C2065: 'u_int32_t' : undeclared identifier
+1>..\CheckTypeSize\U_INT32_SIZE.c(25) : error C2065: 'u_int32_t' : undeclared identifier
+1>..\CheckTypeSize\U_INT32_SIZE.c(26) : error C2065: 'u_int32_t' : undeclared identifier
+1>..\CheckTypeSize\U_INT32_SIZE.c(27) : error C2065: 'u_int32_t' : undeclared identifier
+1>..\CheckTypeSize\U_INT32_SIZE.c(28) : error C2065: 'u_int32_t' : undeclared identifier
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_f8e9d.dir\Debug\BuildLog.htm"
+1>cmTC_f8e9d - 5 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CheckTypeSize/U_INT32_SIZE.c:
+#include <sys/types.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(u_int32_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of int64_t failed with the following output:
+Change Dir: C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio 9.0/Common7/IDE/devenv.com" "CMAKE_TRY_COMPILE.sln" "/build" "Debug" "/project" "cmTC_f3baf"
+
+Microsoft (R) Visual Studio Version 9.0.21022.8.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTC_f3baf, Configuration: Debug Win32 ------
+1>Compiling...
+1>Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>cl /Od /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\"Debug\"" /D "_MBCS" /FD /RTC1 /MDd /Fo"cmTC_f3baf.dir\Debug\\" /Fd"cmTC_f3baf.dir\Debug\vc90.pdb" /W3 /c /Zi /TC "..\CheckTypeSize\INT64_SIZE.c"
+1>INT64_SIZE.c
+1>..\CheckTypeSize\INT64_SIZE.c(24) : error C2065: 'int64_t' : undeclared identifier
+1>..\CheckTypeSize\INT64_SIZE.c(25) : error C2065: 'int64_t' : undeclared identifier
+1>..\CheckTypeSize\INT64_SIZE.c(26) : error C2065: 'int64_t' : undeclared identifier
+1>..\CheckTypeSize\INT64_SIZE.c(27) : error C2065: 'int64_t' : undeclared identifier
+1>..\CheckTypeSize\INT64_SIZE.c(28) : error C2065: 'int64_t' : undeclared identifier
+1>Build log was saved at "file://c:\Users\DELL\Downloads\A4DepSources\libsrc\libogg-1.3.4\CMakeFiles\CMakeTmp\cmTC_f3baf.dir\Debug\BuildLog.htm"
+1>cmTC_f3baf - 5 error(s), 0 warning(s)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+C:/Users/DELL/Downloads/A4DepSources/libsrc/libogg-1.3.4/CMakeFiles/CheckTypeSize/INT64_SIZE.c:
+#include <sys/types.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(int64_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
